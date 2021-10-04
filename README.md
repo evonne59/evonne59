@@ -35,7 +35,7 @@ Perks include:
 
 Interested? Apply from here:
 https://thenetcircle.com/jobs/
-- 📫 How to reach me wechat: evonne69
+- 📫 How to reach me: Wechat: evonne69
 
 <!---
 evonne59/evonne59 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
