@@ -1,7 +1,6 @@
 👋 Hi, I’m @evonne59
 
-👀 I’m now hiring Frontend Developer (React) & Java Developer for The NetCircle @Shanghai, China
-- JAVA: https://thenetcircle.com/jobs/java-developer/
+👀 I’m now hiring Frontend Developer (React) for The NetCircle @Shanghai, China
 - Frontend Dev.: https://thenetcircle.com/jobs/frontend-developer/
 
 We are The NetCircle, masters of Social Networking Sites; We are a multicultural development team working on fast-growing social networking platforms.
